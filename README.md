@@ -52,19 +52,19 @@ npm run build
 ```
 
 ## Folder Structure
-project-root/
-│
-├── public/
-│   ├── favicon.ico
-│   ├── Shifankhan_Pathan_Resume.pdf
-│
-├── src/
-│   ├── App.js
-│   ├── index.js
-│   ├── components/
-│   ├── assets/
-│
-└── README.md
+- project-root/
+- │
+- ├── public/
+- │   ├── favicon.ico 
+- │   ├── Shifankhan_Pathan_Resume.pdf
+- │
+- ├── src/
+- │   ├── App.js
+- │   ├── index.js
+- │   ├── components/
+- │   ├── assets/
+- │
+- └── README.md
 
 ## Contact
 
