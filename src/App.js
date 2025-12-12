@@ -89,20 +89,15 @@ export default function Portfolio() {
             </motion.p>
 
             <div className="mt-6 flex flex-wrap gap-3">
-<<<<<<< HEAD
-              <a href="/Shifankhan_Resume.pdf" className="inline-block px-4 py-2 rounded-md border text-sm bg-transparent">Download Resume</a>
-=======
             <a
              href="/Shifankhan_Resume.pdf"
              target="_blank"
              rel="noopener noreferrer"
              className="inline-block px-4 py-2 rounded-md border text-sm bg-transparent"
-             >
-             Download Resume
+            >
+            Download Resume
             </a>
->>>>>>> 3390370 (Save changes before pull)
             </div>
-
           </div>
 
           <div className="flex justify-center md:justify-end">
